@@ -1,3 +1,5 @@
+
+
 # El sistema sencillo de productividad que cambió mis días
 
 Una guía práctica, honesta y en lenguaje humano para personas ocupadas que quieren recuperar el control de su tiempo sin volverse “robots de productividad”.
@@ -36,7 +38,7 @@ No necesitas un día perfecto, necesitas un día realista que puedas repetir muc
 
 Incluye horario de sueño, bloques de trabajo, tiempo para familia, tareas del hogar, ejercicio y momentos de descanso, como si diseñaras la plantilla de tu mejor día promedio.
 
-Si quieres un modelo ya preparado, puedes usar esta [guía completa de productividad diaria](https://www.guiasproductividad.com/tu-url-ejemplo) y adaptar la plantilla a tu rutina.
+Si quieres un modelo ya preparado, puedes usar esta [guía completa de productividad diaria](https://guiasproductividad.com/como-organizar-tu-dia-productivo/) y adaptar la plantilla a tu rutina.
 
 ---
 
@@ -62,7 +64,7 @@ En vez de una lista infinita de tareas mezcladas, crea listas por contexto: “o
 
 Así, cuando tengas 10 minutos con el móvil en la mano, verás solo las tareas que puedes hacer desde ahí, sin perder tiempo pensando “qué tocaba ahora”.
 
-En esta [guía práctica de organización personal](https://www.guiasproductividad.com/tu-segunda-url) explico con ejemplos cómo crear listas por contexto sin complicarte la vida.
+En esta [guía práctica de organización personal](https://guiasproductividad.com/productividad-2026-la-guia-completa-para-exprimir-tu-rendimiento-en-trabajo-remoto/) explico con ejemplos cómo crear listas por contexto sin complicarte la vida.
 
 ---
 
@@ -90,7 +92,7 @@ Si todo esto te suena bien pero te abruma, empieza pequeño:
 - Mañana: prueba un bloque de 25–50 minutos sin interrupciones con una de esas prioridades.
 - Este fin de semana: diseña tu “día ideal realista” y prepara tus listas por contexto.
 
-Si quieres que te lo den todo más masticado, puedes descargar este [kit gratuito de productividad](https://www.guiasproductividad.com/tu-tercera-url) con plantillas de listas, revisión semanal y modelo de día ideal.
+Si quieres que te lo den todo más masticado, puedes descargar este [kit gratuito de productividad](https://guiasproductividad.com/recursos/) con plantillas de listas, revisión semanal y modelo de día ideal.
 
 ---
 
@@ -102,5 +104,4 @@ Si empiezas hoy con una lista limpia, tres prioridades claras y un bloque de tra
 
 ---
 
-He creado este contenido como parte de mi proyecto [guiasproductividad.com](https://www.guiasproductividad.com), donde comparto más recursos, guías y plantillas para personas ocupadas que quieren organizarse mejor sin complicarse la vida.
-
+He creado este contenido como parte de mi proyecto [guiasproductividad.com](https://guiasproductividad.com), donde comparto más recursos, guías y plantillas para personas ocupadas que quieren organizarse mejor sin complicarse la vida.
