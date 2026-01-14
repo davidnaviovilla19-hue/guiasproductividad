@@ -4,6 +4,8 @@
 
 Una guía práctica, honesta y en lenguaje humano para personas ocupadas que quieren recuperar el control de su tiempo sin volverse “robots de productividad”.
 
+**🔗 Guías y recursos:** Para más guías prácticas sobre productividad e inteligencia artificial, visita [guiasproductividad.com](https://guiasproductividad.com/organizar-semana-todoist-inteligencia-artificial/)
+
 ---
 
 ## 1. Por qué tu problema no es la falta de tiempo
